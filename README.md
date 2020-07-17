@@ -3,8 +3,8 @@
 </div>
 
 <p>
-I am a Software Developer skilled in Javascript, React, Docker, Node.js, Vue.js and Webpack.<br/>
-Strongly interested in React, Node.js, Golang, Java, Docker, DevOps and Linux.<br/>With a bachelor degree focused on Software Engineering from Imam Khomeini International University. 
+I am a Software Developer skilled in <strong>Javascript, React, Docker, Node.js, Vue.js</strong> and Webpack.<br/>
+Strongly interested in <strong>React, Node.js, Golang, Java, Docker, DevOps and Linux</strong>.<br/>With a bachelor degree focused on Software Engineering from Imam Khomeini International University. 
   </p>
 <p>
 
